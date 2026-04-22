@@ -11,6 +11,7 @@
            
             <configuration>
                 <source>1.8</source>
+              <failOnMissingWebXml>false</failOnMissingWebXml>
                 <target>1.8</target>
             </configuration>
           
