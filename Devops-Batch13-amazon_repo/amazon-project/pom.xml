@@ -19,7 +19,7 @@
   <groupId>com.vishal.amazon</groupId>
   <artifactId>amazon-project</artifactId>
   <version>1.02-Snap</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>amazon-project</name>
   <url>http://maven.apache.org</url>
